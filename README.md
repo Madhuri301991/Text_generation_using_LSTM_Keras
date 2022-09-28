@@ -1,4 +1,5 @@
 # Text_generation_using_LSTM_Keras
+The project will predict new word after a sequences of word in a sentence.
 1] Process Text
 2] Clean Text
 3] Tokenize the text and create sequences with keras
